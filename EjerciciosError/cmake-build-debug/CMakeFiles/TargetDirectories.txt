@@ -1,0 +1,3 @@
+C:/Users/Jugge/CLionProjects/EjerciciosError/cmake-build-debug/CMakeFiles/EjerciciosError.dir
+C:/Users/Jugge/CLionProjects/EjerciciosError/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jugge/CLionProjects/EjerciciosError/cmake-build-debug/CMakeFiles/rebuild_cache.dir
