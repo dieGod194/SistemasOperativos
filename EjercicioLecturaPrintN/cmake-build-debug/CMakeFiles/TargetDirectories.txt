@@ -1,0 +1,3 @@
+C:/Users/Jugge/CLionProjects/EjercicioLecturaPrintN/cmake-build-debug/CMakeFiles/EjercicioLecturaPrintN.dir
+C:/Users/Jugge/CLionProjects/EjercicioLecturaPrintN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jugge/CLionProjects/EjercicioLecturaPrintN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
