@@ -1,0 +1,3 @@
+/home/diego/Escritorio/Arbol/cmake-build-debug/CMakeFiles/Arbol.dir
+/home/diego/Escritorio/Arbol/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/diego/Escritorio/Arbol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
